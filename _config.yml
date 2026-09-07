@@ -1,3 +1,13 @@
 theme: minima
 title: Diagnostic Desires
-description: A mythic atlas of climate readings, emotional choreography, and sovereign perception.
+description: A mythic atlas of climate readings, emotional choreogr
+
+nav:
+  - title: The Field
+    url: /field/
+  - title: The Mirror
+    url: /mirror/
+  - title: The Archive
+    url: /archive/
+  - title: The Lab
+    url: /lab/
